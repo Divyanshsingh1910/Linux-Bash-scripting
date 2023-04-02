@@ -21,3 +21,12 @@ chmod +x Goals_above_30.sh
 ./Goals_above_30.sh england-premier-league-players-2018-to-2019-stats.csv output.csv
 ```
 <hr>
+<h2> Question 3 </h2>
+Run the folloing commands in terminal to run ```top_goals_scorer.sh``` <br />
+
+```bash
+chmod +x top_goals_scorer.sh
+```
+```bash
+./top_goals_scorer.sh england-premier-league-players-2018-to-2019-stats.csv output
+```
