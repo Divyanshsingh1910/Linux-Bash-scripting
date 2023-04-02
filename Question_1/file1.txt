@@ -1,0 +1,6 @@
+This is file1.
+Second line is common between both files.
+
+But, third line is not.
+Again, fourth line is common between both files.
+Fifth line is not common.
